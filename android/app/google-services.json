@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056693062120",
+    "project_id": "loginngoc",
+    "storage_bucket": "loginngoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056693062120:android:f7ae7a375c12283d783c5d",
+        "android_client_info": {
+          "package_name": "com.ngoc.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056693062120-d19ff8ocjejuenmbc20rm8ddl481cle0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngoc.login",
+            "certificate_hash": "254077f69ff8da79176d7ad984fe046bf2063b62"
+          }
+        },
+        {
+          "client_id": "1056693062120-spi3k2nk5v6nd1s9m33rglhjt90p3v9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAarO7J5gbBNSLY7Zexj8qJqEWEMuF8go0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056693062120-dps8l8mgf4ttrkhs0kl75rgn907kcc9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
